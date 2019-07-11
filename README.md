@@ -1,6 +1,7 @@
 # Gravatar_example
 Generate image using text hashes
 
-1. After opening test.py, put the desired text value in the input_text variable
-
-2. python test.py
+## Getting Started
+1. python test.py
+2. Input your text for convert (Only String)
+3. Input size of the image (Only Int)
